@@ -30,7 +30,7 @@ function Banner() {
         <button className="btn mt-6 btn-secondary">Get Started</button>
       </div>
       <div className='order-1 w-full md:w-1/2'> 
-        <img src = {banner} className = "w-62 h-62" alt = ""/>
+        <img src = {banner} className = "w-65 h-65 mt-20 ml-12 " alt = ""/>
       </div>
     </div>
     </>
